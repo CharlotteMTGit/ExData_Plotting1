@@ -1,5 +1,5 @@
 ##Exploratory Data Analysis - Assignment 1 
-## Plot 2
+## Plot 3
 setwd("~/Desktop/ExploratoryDataAnalysis/")
 assignment1<-"household_power_consumption.txt"
 data<-read.table(assignment1,header=TRUE,sep=";",stringsAsFactors=FALSE,dec=".")
